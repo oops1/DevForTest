@@ -1,2 +1,2 @@
 Q: Is this a sandbox?
-A: Yes.
+A: Yes, break anything you like.
