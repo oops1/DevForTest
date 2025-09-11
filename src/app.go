@@ -12,5 +12,5 @@ func greeting() string {
 }
 
 func farewell() string {
-	return "bye"
+	return "farewell"
 }
